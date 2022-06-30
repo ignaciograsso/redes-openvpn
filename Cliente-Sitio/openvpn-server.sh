@@ -1,0 +1,1 @@
+sudo openvpn --push "route 172.31.80.0 255.255.240.0"  --config server.conf
